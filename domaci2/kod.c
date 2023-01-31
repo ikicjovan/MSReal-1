@@ -122,5 +122,5 @@ module_init(baza_init);
 module_exit(baza_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Author");
+MODULE_AUTHOR("Petar Ubavic Jovan Ikic");
 MODULE_DESCRIPTION("Student database driver");
