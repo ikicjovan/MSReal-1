@@ -9,7 +9,7 @@ int main (/*int argc, char** argv*/)
 	FILE *fb;
 	char *str;
 	char *str3;
-	char tval1,tval2,tval3,tval4, sval1, sval2, sval3, sval4prom;
+	char tval1,tval2,tval3,tval4, sval1, sval2, sval3, sval4, prom;
 	size_t num_of_bytes = 6;
 	char operacija, operand;
 	
